@@ -61,4 +61,5 @@ La señal PWM opera a una frecuencia mínima deseada de 2000 Hz, asumiendo un re
 
 Este proyecto está licenciado bajo la Licencia **MIT**.
 
-Consulte el archivo [LICENSE](LICENSE) para obtener los detalles completos.
+
+Consulte el archivo [LICENSE](LICENSE.txt) para obtener los detalles completos.
